@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishiraj122
-- 👀 I’m interested in Data Analysis and Web Dev
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently hacking someones machine
 - 💞️ I’m looking to collaborate on Web Development Project
 - 📫 How to reach me https://rishirajbehera.herokuapp.com
 
