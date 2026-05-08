@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rishiraj122
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently hacking someones machine
-- 💞️ I’m looking to collaborate on Web Development Project
-- 📫 How to reach me https://rishirajbehera.herokuapp.com
+- 👀 I’m interested in Computer Vision
+- 💞️ I’m looking to collaborate on interesting and difficult Computer Vision Projects
+- 📫 How to reach me https://chef-chisi-sleeps.netlify.app/
 
 <!---
 Rishiraj122/Rishiraj122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
